@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Danno 👋
 
-<!--
-**DannoPeters/DannoPeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineer 🛠️ | Programmer 💻 | Pilot ✈️
 
-Here are some ideas to get you started:
+I'm an engineer, programmer, pilot, and lifelong tinkerer who enjoys building things, solving interesting problems, and figuring out how things work (sometimes by taking them apart).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of **software, hardware, and the physical world**, with a focus on **data engineering, computer vision, AI, sensor fusion, and remote sensing**. I enjoy turning complex data into practical tools and technology that works beyond the lab.
+
+### 🔬 Areas of Interest
+
+- **Data & AI:** Python, data engineering, machine learning, computer vision, OpenCV
+- **Geospatial:** LiDAR, GIS, photogrammetry, and remote sensing
+- **Sensors:** GPS, IMU, RADAR, RF, multispectral, and thermal imaging
+- **Engineering:** Embedded systems, electronics, robotics, automation, and distributed computing
+
+### ✈️ Beyond the Keyboard
+
+Commercial pilot and aviation instructor with experience across fixed-wing, helicopters, gliders, and uncrewed aircraft. Involved in aerial survey, remote sensing, and airborne search and rescue.
+
+When I'm not coding or flying, I'm probably tinkering with hardware, reviving old computers, building something in the workshop, or hanging off the side of a mountain. 🧗‍♂️
+
+### 🎓 Background
+
+Engineering Physics & Computer Science | Commercial Pilot (FAA & TC) | Aviation & RPAS Instructor | Airborne SAR Volunteer
+
+### 🌐 Find Me Around the Internet
+
+- 🌐 **Website:** [DannoPeters.ca](https://dannopeters.ca)
+- 💼 **LinkedIn:** [linkedin.com/in/dannopeters](https://linkedin.com/in/dannopeters)
+- 🛰️ **Prairie3D:** [prairie3d.ca](https://prairie3d.ca)
+
+---
